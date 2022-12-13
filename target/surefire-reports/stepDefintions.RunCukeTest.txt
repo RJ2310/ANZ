@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: stepDefintions.RunCukeTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 23.591 s <<< FAILURE! - in stepDefintions.RunCukeTest
+Home loan borrowing power calculator.Verify borrowing estimate  Time elapsed: 12.617 s  <<< FAILURE!
+java.lang.AssertionError: estimate borrowing doesn't matched
+
+Home loan borrowing power calculator.Verify error text message  Time elapsed: 4.108 s  <<< FAILURE!
+java.lang.AssertionError: wrong error message is displayed
+
