@@ -1,0 +1,25 @@
+Question :
+
+1.	What other tests would you suggest could be written? You do not need to write them out in detail or code them.
+
+ - Enter Monthly living expenses as zero, clicking on 'Work out how much I could borrow' should display "required" error message under Monthly living expenses text box
+
+ - With application type as "Joint" , verify income text boxes displayed for 2nd applicant.
+
+ - Verify title, description text for the page
+
+ - Verify head text, description text and "Apply online now" button for What's next module
+
+ - Verify head text, description text and button for Featured offer module 
+
+ - Verify head text, description text and link text for Featured rate module
+
+
+2.	If this test was part of a much larger test set, how would you speed it up?
+
+By running multiple feature file parallely using gird
+
+
+3.	Sometimes UI tests can fail unpredictably. For example, the page may not have fully loaded before test automation attempts to click a button on a webpage. How would you improve reliability of these tests?
+   
+	Can use fluent wait and implicit wait for webpage and webelement for improve reliability of scenario which are failing due to loading. 
