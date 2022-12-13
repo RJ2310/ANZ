@@ -1,0 +1,3 @@
+Scenario 1 : failed due to estimated amount was $479,000 but displayed $447,000
+Scenario 2 : passed
+Scenario 3 : failed due to telphone no "1800 035 500" is displayed instead of "1800 100 641" in text message
