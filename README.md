@@ -1,5 +1,5 @@
 # ANZ
-Build the Project using following command
- maven clean install
+Build the Project using following command :
+ **mvn clean install**
 
-Result folder : target/cucumber-reports.html
+Result folder : **target/cucumber-reports.html**
